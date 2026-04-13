@@ -1,3 +1,7 @@
 spring:
   application:
     name: authentication-back-end-app
+  profile:
+    active: dev
+server:
+  port: 8090
